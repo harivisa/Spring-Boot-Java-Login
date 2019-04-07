@@ -1,0 +1,9 @@
+com\app\login\controller\LoginController.class
+com\app\login\model\Role.class
+com\app\login\model\User.class
+com\app\login\repository\RoleRepository.class
+com\app\login\service\UserService.class
+com\app\login\configuration\SecurityConfiguration.class
+com\app\login\repository\UserRepository.class
+com\app\login\LoginappApplication.class
+com\app\login\configuration\WebMvcConfig.class
