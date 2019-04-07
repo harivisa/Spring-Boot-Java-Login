@@ -1,4 +1,4 @@
-# Spring-Boot-Java-Login
+# a Login Application with Spring Boot
 
 This document is based on:
 Spring Boot 2.x
