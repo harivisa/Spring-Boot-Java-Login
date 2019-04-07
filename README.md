@@ -1,4 +1,4 @@
-# a Login Application with Spring Boot
+# A Login Application with Spring Boot
 
 This document is based on:
 Spring Boot 2.x
